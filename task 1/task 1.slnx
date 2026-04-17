@@ -1,8 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="task 1 (async)/task 1 (async).vcxproj" />
-  <Project Path="task 1/task 1.vcxproj" />
-</Solution>
